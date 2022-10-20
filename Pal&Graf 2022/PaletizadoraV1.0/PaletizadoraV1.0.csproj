@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A491943-EA43-4229-8CA1-6D62709DE048}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PaletizadoraV1._0</RootNamespace>
+    <AssemblyName>PaletizadoraV1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.6.1.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="usbGenericHidCommunications">
+      <HintPath>.\usbGenericHidCommunications.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Automatico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Automatico.Designer.cs">
+      <DependentUpon>Automatico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CalculadoraP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculadoraP.designer.cs">
+      <DependentUpon>CalculadoraP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPosicion.cs" />
+    <Compile Include="DibujoGCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DibujoGCode.Designer.cs">
+      <DependentUpon>DibujoGCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DropMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EnvioManualSimple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnvioManualSimple.Designer.cs">
+      <DependentUpon>EnvioManualSimple.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIngresoAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIngresoAuto.Designer.cs">
+      <DependentUpon>FormIngresoAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuColorTable.cs" />
+    <Compile Include="MenuRender.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="STextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="STextBox.Designer.cs">
+      <DependentUpon>STextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TemaColores.cs" />
+    <Compile Include="USBcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Automatico.resx">
+      <DependentUpon>Automatico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalculadoraP.resx">
+      <DependentUpon>CalculadoraP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DibujoGCode.resx">
+      <DependentUpon>DibujoGCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnvioManualSimple.resx">
+      <DependentUpon>EnvioManualSimple.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIngresoAuto.resx">
+      <DependentUpon>FormIngresoAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="STextBox.resx">
+      <DependentUpon>STextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\degem-systems-prov%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Resources\Screenshot_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sintroducir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SRetirart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PinzaCerrada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PinzaAbierta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaletizadoraDibujo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaletizadoraDibujo50percent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaletizadoraDibujoBlanco.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

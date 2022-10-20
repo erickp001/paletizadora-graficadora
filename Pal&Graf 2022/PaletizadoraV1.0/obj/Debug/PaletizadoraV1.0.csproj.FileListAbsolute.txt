@@ -1,0 +1,340 @@
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Desktop\aburrimiento\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\PaletizadoraV1.0-20220714T130741Z-001\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Desktop\Probandosonido\PaletizadoraV1.0-20220714T130741Z-001 - copia\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sebas\Downloads\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\PaletizadoraV50percent\PaletizadoraV1.0\PaletizadoraV1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\erick\Desktop\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Desktop\PaletizadoraV2.3\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\PaletizadoraV2.1\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\erick\Desktop\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Downloads\a revisar\PaletizadoraV2.4\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\pc\Desktop\PCB Wizard\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Calculadora.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Calculadora.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Calculadora.resources
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\pc\Desktop\scripts\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sebas\Downloads\Version3.2\Version3.1\Paletizadora v3.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.CalculadoraP.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe.config
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\bin\Debug\PaletizadoraV1.0.pdb
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.AssemblyReference.cache
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Automatico.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.CalculadoraP.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.DibujoGCode.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.EnvioManualSimple.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Menu.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.FormIngresoAuto.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.Properties.Resources.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1._0.STextBox.resources
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.GenerateResource.cache
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.csproj.CopyComplete
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.exe
+C:\Users\Sección A\Downloads\Version final 1.0\PaletizadoraV1.0\obj\Debug\PaletizadoraV1.0.pdb
